@@ -1,2 +1,2 @@
-# megabytia-token
-Official MegaBytia_ia token assets
+# me-token
+Official Meg token assets
